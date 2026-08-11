@@ -1,4 +1,5 @@
 # MW-Dataset
+
 ## Due to website file size limitations, the dataset itself has been uploaded to Kaggle. Please visit https:// to view it.
 
 ## Notion：
@@ -9,7 +10,7 @@
 3.Due to the dynamic nature of malicious websites and the potential risks associated with publicly releasing raw webpage resources, the complete release of all collected samples may be restricted by multiple factors, including website access policies, intellectual property considerations, third-party content ownership, and the potential security risks of distributing malicious scripts or executable resources. To ensure responsible data sharing, we have performed necessary preprocessing and sanitization on the collected samples. Specifically, certain sensitive, inaccessible, or potentially harmful contents have been removed, modified, or excluded from the publicly released version. These processing operations are designed to preserve the essential multimodal characteristics required for malicious website detection research while reducing potential security and legal risks.
 
 
-## Legal and Responsible Use Disclaimer
+## Legal and Responsible Use Disclaimer：
 This dataset is released exclusively for academic research and educational purposes related to malicious website detection, cybersecurity analysis, and defensive security research.
 
 The collected website information originates from publicly accessible sources and third-party threat intelligence repositories. The authors do not claim ownership of the original website content, webpage materials, trademarks, or other intellectual property contained within the collected samples. All data collection and processing activities were conducted with the intention of supporting security research and improving defensive capabilities.
