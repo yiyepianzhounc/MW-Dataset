@@ -1,6 +1,6 @@
 # MW-Dataset
 
-## Due to website file size limitations, the dataset itself has been uploaded to Kaggle. Please visit https:// to view it.
+## Due to website file size limitations, the dataset itself has been uploaded to Kaggle. Please visit https://www.kaggle.com/datasets/tt239086/mw-dataset to view it.
 
 ## Notion：
 1.The website sample is in MW-Dataset, and the corresponding labels are in labels.csv.
